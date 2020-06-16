@@ -1,0 +1,22 @@
+{
+  "name": "comment-chat-api",
+  "version": "1.0.0",
+  "description": "A comment Api that exposes CRUD Operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adedayo-A/Comment-Chat-API.git"
+  },
+  "author": "Adedayo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Adedayo-A/Comment-Chat-API/issues"
+  },
+  "homepage": "https://github.com/Adedayo-A/Comment-Chat-API#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
